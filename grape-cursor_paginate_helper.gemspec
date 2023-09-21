@@ -3,7 +3,7 @@
 require_relative 'lib/grape/cursor_paginate_helper/version'
 
 Gem::Specification.new do |spec|
-  spec.name = 'grape-cursor-paginate-helper'
+  spec.name = 'grape-cursor_paginate_helper'
   spec.version = Grape::CursorPaginateHelper::VERSION
   spec.authors = ['Shinichi Sugiyama']
   spec.email = ['sugiyama-shinichi@kayac.com']
