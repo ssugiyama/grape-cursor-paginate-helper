@@ -43,7 +43,7 @@ end
 
 - `X-Previous-Cursor`: String - cursor of the first record. used for the backward paginate call.
 - `X-Next-Cursor`: String - cursor of the last record. used for the forward paginate call.
-- `X-Total-Count`: Integer - total count of relation
+- `X-Total`: Integer - total count of relation
 
 ## Development
 
